@@ -1,4 +1,4 @@
-# a K.I.S.S. command line Steam, Library and Game Path Fetcher
+# Steam, Steam Library and Steam Game Path Fetcher (via AppID)
 
 ## Make into an executable:
 
