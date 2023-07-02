@@ -2,7 +2,8 @@
 
 # Steam, SteamLibrary and Game Path Fetcher (via AppID)
 
-![image](https://github.com/ArchemedIan/steam-path-info/assets/105951210/01b0feab-70dc-485f-b2df-473010af890d)
+![image](https://github.com/ArchemedIan/steam-path-info/assets/105951210/44ef9214-0ef1-46a0-b7e9-9a99c542746f)
+
 
 ## Make into an executable:
 
