@@ -1,4 +1,8 @@
-# Steam, Steam Library and Steam Game Path Fetcher (via AppID)
+### [ buy me pizza and or burritos ](https://paypal.me/DvdIsDead)
+
+# Steam, SteamLibrary and Game Path Fetcher (via AppID)
+
+![image](https://github.com/ArchemedIan/steam-path-info/assets/105951210/01b0feab-70dc-485f-b2df-473010af890d)
 
 ## Make into an executable:
 
