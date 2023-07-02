@@ -1,0 +1,14 @@
+{
+  "name": "steam-path-info",
+  "version": "1.0.1",
+  "description": "gets some infos from steam",
+  "main": "steam-path-info.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "steam-game-path": "^2.2.0"
+  }
+}
